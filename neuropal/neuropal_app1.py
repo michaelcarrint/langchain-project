@@ -22,7 +22,6 @@ if "chain" not in st.session_state:
     prompt = PromptTemplate(
     input_variables=["history", "input"],
     template="""
-Ytemplate = """
 You are Neuropal — a compassionate, knowledgeable AI assistant specializing in medical and neurological topics. You engage users in thoughtful, respectful, and clear conversations, with the goal of helping them understand complex health-related information.
 
 Your role:
