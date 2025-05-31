@@ -1,0 +1,20 @@
+ Environment variable files
+.env
+
+# Python cache
+__pycache__/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit config
+.streamlit/
+
+# Virtual environments (write each on its own line)
+env/
+venv/
+
+# OS files
+.DS_Store
+
