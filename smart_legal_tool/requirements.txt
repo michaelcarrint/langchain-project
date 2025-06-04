@@ -1,0 +1,9 @@
+openai
+langchain
+langchain-openai
+langchain-huggingface
+python-dotenv
+docarray
+transformers
+torch
+
