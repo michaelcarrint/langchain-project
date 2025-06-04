@@ -79,3 +79,9 @@ Type exit to quit the program.
 - "What benefits is Raj Malhotra entitled to?"
 - "What is the length of the probationary period in Jordan’s contract?"
 
+
+## 📇 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-carrington-a34314368)
+
+
