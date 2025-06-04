@@ -39,17 +39,20 @@ answers along with document context.
    ```bash
    git clone https://github.com/yourusername/smart-legal-qa.git
    cd smart-legal-qa
+   ```
 
 2. Create and activate a virtual environment:
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  
+   source venv/bin/activate
+   ```
 
 3. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt\
+   ```
 
 4. Set your OpenAIAPI key in a .env file:
 
@@ -62,6 +65,7 @@ Run the CLI application by executing the following command in your terminal:
 
    ```bash
    python app.py
+   ```
 
 You'll be prompted to enter your questions about the legal documents.
 
@@ -70,8 +74,8 @@ Type exit to quit the program.
 
 ## 💬 Example Queries You Can Try
 
-"What is the employment classification of Emily Reyes?"
-"How long is the non-compete clause in effect after Raj leaves?"
-"What benefits is Raj Malhotra entitled to?"
-"What is the length of the probationary period in Jordan’s contract?"
+- "What is the employment classification of Emily Reyes?"
+- "How long is the non-compete clause in effect after Raj leaves?"
+- "What benefits is Raj Malhotra entitled to?"
+- "What is the length of the probationary period in Jordan’s contract?"
 
