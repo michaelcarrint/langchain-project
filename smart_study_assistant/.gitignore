@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Jupyter Notebook hidden files
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# VSCode or IDE config (optional)
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+
+# Mac system files
+.DS_Store
+
+
